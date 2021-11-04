@@ -24,10 +24,10 @@ Powered by [Slidev](https://sli.dev/)
 
 # 目录
 
-- 构建工具
-- 框架
-- 函数式编程
-- 打破职责边界
+- 工具链
+- 框架和库
+- Immutable & Mutable
+- 自我驱动
 
 ---
 
