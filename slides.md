@@ -10,7 +10,7 @@ highlighter: shiki
 
 吴睿
 
-[Repo](https://github.com/modyqyw/modern-fronted)
+[Repo](https://github.com/modyqyw/modern-frontend)
 
 Powered by [Slidev](https://sli.dev/)
 
@@ -92,7 +92,7 @@ Powered by [Slidev](https://sli.dev/)
 
 我们需要默认就有更强的功能和更好的性能。
 
-- [vuepress](https://vuepress.github.io/)、[vitepress](https://vitepress.vuejs.org/)、[dumi](https://d.umijs.org/zh-CN) - 文档
+- [vuepress](https://vuepress.github.io/)、[vitepress](https://vitepress.vuejs.org/)、[dumi](https://d.umijs.org/zh-CN)、[docusaurus](https://docusaurus.io/) - 文档
 - [css modules](https://github.com/css-modules/css-modules)、[css variables](https://developer.mozilla.org/en-US/docs/Web/CSS/Using_CSS_custom_properties) - 更好的 CSS
 - [unocss](https://github.com/antfu/unocss)、[windicss](https://windicss.org/)、[tailwindcss](https://tailwindcss.com/) - 原子化 CSS，可以读一下 [重新构想原子化 CSS](https://antfu.me/posts/reimagine-atomic-css-zh)
 - [immer](https://immerjs.github.io/immer/) - immutable
