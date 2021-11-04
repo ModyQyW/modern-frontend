@@ -118,7 +118,7 @@ function replaceItemAtIndex(arr, index, newValue) {
 }
 ```
 
-- 由于我们很可能使用 TypeScript，不建议把 Mutable Data 的值更改成不同类型。
+- 由于我们很可能使用 typescript，不建议把 Mutable Data 的值更改成不同类型。
 
 ---
 
