@@ -10,7 +10,7 @@ highlighter: shiki
 
 吴睿
 
-[Repo](https://github.com/modyqyw/modern-engineering)
+[Repo](https://github.com/modyqyw/modern-fronted)
 
 Powered by [Slidev](https://sli.dev/)
 
@@ -97,13 +97,13 @@ Powered by [Slidev](https://sli.dev/)
 - [unocss](https://github.com/antfu/unocss)、[windicss](https://windicss.org/)、[tailwindcss](https://tailwindcss.com/) - 原子化 CSS，可以读一下 [重新构想原子化 CSS](https://antfu.me/posts/reimagine-atomic-css-zh)
 - [immer](https://immerjs.github.io/immer/) - immutable
 
-[SSR、SSG 等渲染方式](https://github.com/PieNam/Blog/blob/main/4-XXR/%E5%95%A5%E6%98%AFXXR%EF%BC%9F%E8%AE%A4%E8%AF%86%E5%89%8D%E7%AB%AF%E9%A1%B9%E7%9B%AE%E6%B8%B2%E6%9F%93%E6%A8%A1%E5%BC%8F%E4%BB%AC.md)、[函数式编程](https://llh911001.gitbooks.io/mostly-adequate-guide-chinese/)和原子化 CSS 被越来越多人接受并使用，现在开始学并使用它们是比较好的时机。
+**[SSR、SSG 等渲染方式](https://github.com/PieNam/Blog/blob/main/4-XXR/%E5%95%A5%E6%98%AFXXR%EF%BC%9F%E8%AE%A4%E8%AF%86%E5%89%8D%E7%AB%AF%E9%A1%B9%E7%9B%AE%E6%B8%B2%E6%9F%93%E6%A8%A1%E5%BC%8F%E4%BB%AC.md)、[函数式编程](https://llh911001.gitbooks.io/mostly-adequate-guide-chinese/)和原子化 CSS 被越来越多人接受并使用，现在开始学并使用它们是比较好的时机。**
 
 ---
 
 # Immutable & Mutable
 
-接受不可变数据和可变数据。Immutable in React & Mutable in Vue.
+接受不可变数据和可变数据。
 
 - Immutable Data 就是一旦创建，值就不能再被更改的数据。相反，Mutable Data 就是创建后值还能被更改的数据。
 
@@ -119,6 +119,8 @@ function replaceItemAtIndex(arr, index, newValue) {
 ```
 
 - 由于我们很可能使用 typescript，不建议把 Mutable Data 的值更改成不同类型。
+
+**Immutable in React & Mutable in Vue.**
 
 ---
 
