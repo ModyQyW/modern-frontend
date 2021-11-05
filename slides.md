@@ -129,7 +129,7 @@ function replaceItemAtIndex(arr, index, newValue) {
 前端可以不只是前端。
 
 - BFF (Backends For Frontends) - 承担一部分后端开发工作，多一层业务处理和转发层。
-- JavaScript / TypeScript 全栈 - 基于一门熟悉的语言，拓展到不同的领域，[express](https://expressjs.com/)、[koa](https://koajs.com/)、[egg](https://eggjs.org/)、[midway](https://www.midwayjs.org/)、[nest](https://nestjs.com/)、[“云”端的语雀：用 JavaScript 全栈打造商业级应用](https://zhuanlan.zhihu.com/p/101917567)。
+- JavaScript / TypeScript 全栈 - 基于一门熟悉的语言，拓展到不同的领域，[express](https://expressjs.com/)、[koa](https://koajs.com/)、[egg](https://eggjs.org/)、[midway](https://www.midwayjs.org/)、[nest](https://nestjs.com/)、[blitz](https://blitzjs.com/)、[“云”端的语雀：用 JavaScript 全栈打造商业级应用](https://zhuanlan.zhihu.com/p/101917567)。
 - Serverless - 把大部分服务器配置、运维工作交给服务商，降低了全栈入门的门槛，[serverless framework](https://www.serverless.com/)。
 - Electron、Tauri - 桌面应用开发。
 - 还有 [很多东西](https://modyqyw.github.io/development/#%E8%AF%B4%E6%98%8E) 值得探索……
